@@ -2,7 +2,7 @@
 
 This project uses a machine learning pipeline to classify iris flowers into three species — *setosa*, *versicolor*, and *virginica* — based on their sepal and petal measurements. It is based on the classic **Iris dataset** introduced by Ronald A. Fisher.
 
-## 📊 Dataset
+## Dataset
 
 - **Source**: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/iris)
 - **Attributes**:
@@ -19,7 +19,7 @@ This project uses a machine learning pipeline to classify iris flowers into thre
 - Model training using Logistic Regression, KNN, Decision Trees, etc.
 - Evaluation with accuracy scores and confusion matrices
 
-## 📈 Workflow
+## Workflow
 
 1. **Data Loading** – Load Iris dataset using `sklearn.datasets`.
 2. **Exploratory Data Analysis** – Use `pandas`, `matplotlib`, and `seaborn` to analyze feature distributions and class separability.
